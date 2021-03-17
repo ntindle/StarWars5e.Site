@@ -8,7 +8,7 @@ Backend: https://github.com/speedreeder/StarWars5e.Core
 
 ## Project Setup
 
-Set the environment variables:
+Set the environment variables in the relevant `.env` file:
 
 `NODE_ENV` = "development" or "production"
 
